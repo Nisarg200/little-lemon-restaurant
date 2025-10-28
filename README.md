@@ -45,9 +45,9 @@ This project focuses on:
 Follow these steps to set up the project locally:
 
 1. Clone the repository :
-git clone https://github.com/yourusername/little-lemon-restaurant.git
+git clone https://github.com/Nisarg200/little-lemon-restaurant.git
 
-2. Navigate into the project directory :
+3. Navigate into the project directory :
 cd little-lemon-restaurant
 
 3.Install dependencies :
@@ -56,6 +56,3 @@ npm install
 4.Run the development server:
 npm start
 
-
-
-git clone https://github.com/yourusername/little-lemon-restaurant.git
